@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left Eyebrow -->
+    <path
+        android:pathData="M 32,32 Q 41,26 50,33"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Right Eyebrow -->
+    <path
+        android:pathData="M 58,33 Q 67,26 76,32"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Left Eye (Rounded Capsule) -->
+    <path
+        android:pathData="M 39,43 L 39,57"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round" />
+
+    <!-- Right Eye (Rounded Capsule) -->
+    <path
+        android:pathData="M 69,43 L 69,57"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round" />
+
+    <!-- Mouth (Cute Smile) -->
+    <path
+        android:pathData="M 34,68 Q 54,84 74,68"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+</vector>

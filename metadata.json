@@ -1,0 +1,6 @@
+{
+  "name": "Pal",
+  "description": "An advanced, highly interactive Persian voice assistant named Pal with dynamic smiley face animations, text-to-speech, background listening, and call/SMS integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
